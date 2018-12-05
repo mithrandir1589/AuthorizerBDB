@@ -19,12 +19,9 @@ public class LibrariesServiceImpl implements LibrariesService{
 
 	private void loadLibraries(){
 		libraries = new ArrayList<>();
-		this.libraries.add("aes.js");
-		this.libraries.add("crypto-js.min.js");
-		this.libraries.add("hmac-sha256.min.js");
-		this.libraries.add("enc-base64.min.js");
-		this.libraries.add("uuid.min.js");
-		this.libraries.add("jwtCode.js");
+		this.libraries.add("angular.min.js");
+		this.libraries.add("bbrsa.js");
+		this.libraries.add("libRsa.js");
 	}
 
 	@Override
