@@ -19,7 +19,6 @@ public class LibrariesServiceImpl implements LibrariesService{
 
 	private void loadLibraries(){
 		libraries = new ArrayList<>();
-		this.libraries.add("angular.min.js");
 		this.libraries.add("bbrsa.js");
 		this.libraries.add("libRsa.js");
 	}
