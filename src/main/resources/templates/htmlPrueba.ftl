@@ -1,4 +1,4 @@
-		<link rel="stylesheet"  href="http://localhost/resources/style-login.css">
+		<link rel="stylesheet"  href="http://static-resources-bdb-aut-des.s-cloudapps.bancodebogota.net/style-login.css">
 		<div ng-app="app">
 			<div ng-controller="bbRsaController" class="content-login">
 				<div class="title">
